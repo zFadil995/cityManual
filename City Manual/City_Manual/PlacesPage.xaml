@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="City_Manual.PlacesPage">
+  <ContentPage.Content>
+    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Padding="10, 15, 10,10" >
+      <ListView x:Name="placesList" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"  >
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ImageCell ImageSource="{Binding image}" Text="{Binding place}" TextColor="#000000"/>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,186 @@
+﻿[
+  {
+    "name": "Tuzla",
+    "canton": "TK",
+    "entity": "FBiH",
+    "population": 110979,
+    "phoneNumber": "+38735307307",
+    "email": "tuzla@tuzla.ba",
+    "website": "http://grad.tuzla.ba/",
+    "location": {
+      "latitude": 44.538611,
+      "longtitude": 18.676862,
+      "source" : "tuzlalocation.png"
+    },
+    "panoramas" : [
+        "tuzla_1.jpg",
+        "tuzla_2.jpg",
+        "tuzla_3.jpg",
+        "tuzla_4.jpg",
+        "tuzla_5.jpg",
+        "tuzla_6.jpg",
+        "tuzla_7.jpg"],
+    "events" : "Tuzla is a city in Bosnia and Herzegovina. It is the seat of the Tuzla Canton and is the economic, scientific, cultural, educational, health and tourist centre of northeast Bosnia. After Sarajevo and Banja Luka, Tuzla is the third largest city in Bosnia and Herzegovina. Preliminary results from the 2013 Census indicate that the municipality has a population of 120,441. Tuzla is an educational center and is home to two universities. It is also the main industrial machine and one of the leading economic strongholds of Bosnia with a wide and varied industrial sector including an expanding service sector thanks to its salt lake tourism. The city of Tuzla is home to Europe's only salt lake as part of its central park and has more than 100,000 people visiting its shores every year. The history of the city goes back to the 9th century; modern Tuzla dates back to 1510 when it became an important garrison town in the Ottoman Empire. In Bosnia and Herzegovina, Tuzla is also regarded as one of the most multicultural cities in the country and has managed to keep the pluralist character of the city throughout the Bosnian War and after, with Bosniaks, Serbs, Croats and a small minority of Bosnian Jews residing in Tuzla.",
+    "places" : [
+        {"image" : "tuzla_place_1.jpg", "place" : "Korzo"},
+        {"image" : "tuzla_place_2.jpg", "place" : "Kapija"},
+        {"image" : "tuzla_place_3.jpg", "place" : "Behram-Begov Ulaz"},
+        {"image" : "tuzla_place_4.jpg", "place" : "Gradska Česma"}]
+  },
+  {
+    "name": "Sarajevo",
+    "canton": "KS",
+    "entity": "FBiH",
+    "population": 275524,
+    "phoneNumber": "+38733208340",
+    "email": "grad@sarajevo.ba",
+    "website": "http://www.sarajevo.ba/en/",
+    "location": {
+      "latitude": 43.853608,
+      "longtitude": 18.385736,
+      "source" : "sarajevolocation.png"
+    },
+    "panoramas" : [
+        "sarajevo_1.jpg",
+        "sarajevo_2.jpg",
+        "sarajevo_3.jpg",
+        "sarajevo_4.jpg",
+        "sarajevo_5.jpg"],
+    "events" : "Sarajevo is the capital and largest city of Bosnia and Herzegovina, with a population of 275,524. The Sarajevo metropolitan area, including Sarajevo, East Sarajevo and surrounding municipalities, is home to 463,992 inhabitants. Moreover, it is also the capital of the Federation of Bosnia and Herzegovina entity, and the center of the Sarajevo Canton. Nestled within the greater Sarajevo valley of Bosnia, it is surrounded by the Dinaric Alps and situated along the Miljacka River in the heart of Southeastern Europe and the Balkans. Sarajevo is the leading political, social and cultural center of Bosnia and Herzegovina, a prominent center of culture in the Balkans, with its region-wide influence in entertainment, media, fashion, and the arts. Due to its long and rich history of religious and cultural variety, Sarajevo is sometimes called the Jerusalem of Europe or Jerusalem of the Balkans. It was, until late in the 20th century,[when?] the only major European city to have a mosque, Catholic church, Orthodox church and synagogue within the same neighborhood. A regional center in education, the city is also home to the Balkans' first institution of tertiary education in the form of an Islamic polytechnic called the Saraybosna Osmanlı Medrese, today part of the University of Sarajevo. Although settlement in the area stretches back to prehistoric times, the modern city arose as an Ottoman stronghold in the 15th century. Sarajevo has attracted international attention several times throughout its history. In 1885, Sarajevo was the first city in Europe and the second city in the world to have a full-time electric tram network running through the city, following San Francisco. In 1914, it was the site of the assassination of the Archduke of Austria that sparked World War I. In WWII, Sarajevo was part of Ustashe's Independent State of Croatia, where many Serbs, Bosniaks, and Jews were killed. Forty years later, it hosted the 1984 Winter Olympics. For nearly four years, from 1992 to 1996, the city suffered the longest siege of a city in the history of modern warfare (1,425 days long) during the Bosnian War. Sarajevo has been undergoing post-war reconstruction, and is the fastest growing city in Bosnia and Herzegovina. The travel guide series, Lonely Planet, has named Sarajevo as the 43rd best city in the world, and in December 2009 listed Sarajevo as one of the top ten cities to visit in 2010. In 2011, Sarajevo was nominated to be the European Capital of Culture in 2014 and will be hosting the European Youth Olympic Festival in 2019.",
+    "places" : [
+        {"image" : "sarajevo_place_1.jpg", "place" : "Sarajevo City Center"},
+        {"image" : "sarajevo_place_2.jpg", "place" : "Hotel Europe"},
+        {"image" : "sarajevo_place_3.jpg", "place" : "Bosmal City Center"},
+        {"image" : "sarajevo_place_4.jpg", "place" : "UNITIC twin towers"}]
+  },
+  {
+    "name": "Travnik",
+    "canton": "SBK",
+    "entity": "FBiH",
+    "population": 53482,
+    "phoneNumber": "+38735307307",
+    "email": "tuzla@tuzla.ba",
+    "website": "http://grad.tuzla.ba/",
+    "location": {
+      "latitude": 44.538611,
+      "longtitude": 18.676862,
+      "source" : "tuzlalocation.png"
+    },
+    "panoramas" : [
+        "tuzla_1.jpg",
+        "tuzla_2.jpg",
+        "tuzla_3.jpg",
+        "tuzla_4.jpg",
+        "tuzla_5.jpg"],
+    "events" : "Tuzla is a city in Bosnia and Herzegovina. It is the seat of the Tuzla Canton and is the economic, scientific, cultural, educational, health and tourist centre of northeast Bosnia. After Sarajevo and Banja Luka, Tuzla is the third largest city in Bosnia and Herzegovina. Preliminary results from the 2013 Census indicate that the municipality has a population of 120,441. Tuzla is an educational center and is home to two universities. It is also the main industrial machine and one of the leading economic strongholds of Bosnia with a wide and varied industrial sector including an expanding service sector thanks to its salt lake tourism. The city of Tuzla is home to Europe's only salt lake as part of its central park and has more than 100,000 people visiting its shores every year. The history of the city goes back to the 9th century; modern Tuzla dates back to 1510 when it became an important garrison town in the Ottoman Empire. In Bosnia and Herzegovina, Tuzla is also regarded as one of the most multicultural cities in the country and has managed to keep the pluralist character of the city throughout the Bosnian War and after, with Bosniaks, Serbs, Croats and a small minority of Bosnian Jews residing in Tuzla.",
+    "places" : [
+        {"image" : "tuzla_place_1.jpg", "place" : "Korzo"},
+        {"image" : "tuzla_place_2.jpg", "place" : "Kapija"},
+        {"image" : "tuzla_place_3.jpg", "place" : "Behram-Begov Ulaz"},
+        {"image" : "tuzla_place_4.jpg", "place" : "Gradska Česma"}]
+  },
+  {
+    "name": "Trnovo",
+    "canton": "KS",
+    "entity": "FBiH",
+    "population": 1830,
+    "phoneNumber": "+38735307307",
+    "email": "tuzla@tuzla.ba",
+    "website": "http://grad.tuzla.ba/",
+    "location": {
+      "latitude": 44.538611,
+      "longtitude": 18.676862,
+      "source" : "tuzlalocation.png"
+    },
+    "panoramas" : [
+        "tuzla_1.jpg",
+        "tuzla_2.jpg",
+        "tuzla_3.jpg",
+        "tuzla_4.jpg",
+        "tuzla_5.jpg"],
+    "events" : "Tuzla is a city in Bosnia and Herzegovina. It is the seat of the Tuzla Canton and is the economic, scientific, cultural, educational, health and tourist centre of northeast Bosnia. After Sarajevo and Banja Luka, Tuzla is the third largest city in Bosnia and Herzegovina. Preliminary results from the 2013 Census indicate that the municipality has a population of 120,441. Tuzla is an educational center and is home to two universities. It is also the main industrial machine and one of the leading economic strongholds of Bosnia with a wide and varied industrial sector including an expanding service sector thanks to its salt lake tourism. The city of Tuzla is home to Europe's only salt lake as part of its central park and has more than 100,000 people visiting its shores every year. The history of the city goes back to the 9th century; modern Tuzla dates back to 1510 when it became an important garrison town in the Ottoman Empire. In Bosnia and Herzegovina, Tuzla is also regarded as one of the most multicultural cities in the country and has managed to keep the pluralist character of the city throughout the Bosnian War and after, with Bosniaks, Serbs, Croats and a small minority of Bosnian Jews residing in Tuzla.",
+    "places" : [
+        {"image" : "tuzla_place_1.jpg", "place" : "Korzo"},
+        {"image" : "tuzla_place_2.jpg", "place" : "Kapija"},
+        {"image" : "tuzla_place_3.jpg", "place" : "Behram-Begov Ulaz"},
+        {"image" : "tuzla_place_4.jpg", "place" : "Gradska Česma"}]
+  },
+  {
+    "name": "Trnovo",
+    "canton": "-",
+    "entity": "RS",
+    "population": 2192,
+    "phoneNumber": "+38735307307",
+    "email": "tuzla@tuzla.ba",
+    "website": "http://grad.tuzla.ba/",
+    "location": {
+      "latitude": 44.538611,
+      "longtitude": 18.676862,
+      "source" : "tuzlalocation.png"
+    },
+    "panoramas" : [
+        "tuzla_1.jpg",
+        "tuzla_2.jpg",
+        "tuzla_3.jpg",
+        "tuzla_4.jpg",
+        "tuzla_5.jpg"],
+    "events" : "Tuzla is a city in Bosnia and Herzegovina. It is the seat of the Tuzla Canton and is the economic, scientific, cultural, educational, health and tourist centre of northeast Bosnia. After Sarajevo and Banja Luka, Tuzla is the third largest city in Bosnia and Herzegovina. Preliminary results from the 2013 Census indicate that the municipality has a population of 120,441. Tuzla is an educational center and is home to two universities. It is also the main industrial machine and one of the leading economic strongholds of Bosnia with a wide and varied industrial sector including an expanding service sector thanks to its salt lake tourism. The city of Tuzla is home to Europe's only salt lake as part of its central park and has more than 100,000 people visiting its shores every year. The history of the city goes back to the 9th century; modern Tuzla dates back to 1510 when it became an important garrison town in the Ottoman Empire. In Bosnia and Herzegovina, Tuzla is also regarded as one of the most multicultural cities in the country and has managed to keep the pluralist character of the city throughout the Bosnian War and after, with Bosniaks, Serbs, Croats and a small minority of Bosnian Jews residing in Tuzla.",
+    "places" : [
+        {"image" : "tuzla_place_1.jpg", "place" : "Korzo"},
+        {"image" : "tuzla_place_2.jpg", "place" : "Kapija"},
+        {"image" : "tuzla_place_3.jpg", "place" : "Behram-Begov Ulaz"},
+        {"image" : "tuzla_place_4.jpg", "place" : "Gradska Česma"}]
+  },
+  {
+    "name": "Brčko",
+    "canton": "-",
+    "entity": "BD",
+    "population": 93028,
+    "phoneNumber": "+38735307307",
+    "email": "tuzla@tuzla.ba",
+    "website": "http://grad.tuzla.ba/",
+    "location": {
+      "latitude": 44.538611,
+      "longtitude": 18.676862,
+      "source" : "tuzlalocation.png"
+    },
+    "panoramas" : [
+        "tuzla_1.jpg",
+        "tuzla_2.jpg",
+        "tuzla_3.jpg",
+        "tuzla_4.jpg",
+        "tuzla_5.jpg"],
+    "events" : "Tuzla is a city in Bosnia and Herzegovina. It is the seat of the Tuzla Canton and is the economic, scientific, cultural, educational, health and tourist centre of northeast Bosnia. After Sarajevo and Banja Luka, Tuzla is the third largest city in Bosnia and Herzegovina. Preliminary results from the 2013 Census indicate that the municipality has a population of 120,441. Tuzla is an educational center and is home to two universities. It is also the main industrial machine and one of the leading economic strongholds of Bosnia with a wide and varied industrial sector including an expanding service sector thanks to its salt lake tourism. The city of Tuzla is home to Europe's only salt lake as part of its central park and has more than 100,000 people visiting its shores every year. The history of the city goes back to the 9th century; modern Tuzla dates back to 1510 when it became an important garrison town in the Ottoman Empire. In Bosnia and Herzegovina, Tuzla is also regarded as one of the most multicultural cities in the country and has managed to keep the pluralist character of the city throughout the Bosnian War and after, with Bosniaks, Serbs, Croats and a small minority of Bosnian Jews residing in Tuzla.",
+    "places" : [
+        {"image" : "tuzla_place_1.jpg", "place" : "Korzo"},
+        {"image" : "tuzla_place_2.jpg", "place" : "Kapija"},
+        {"image" : "tuzla_place_3.jpg", "place" : "Behram-Begov Ulaz"},
+        {"image" : "tuzla_place_4.jpg", "place" : "Gradska Česma"}]
+  },
+  {
+    "name": "Neum",
+    "canton": "HNK",
+    "entity": "FBiH",
+    "population": 4960,
+    "phoneNumber": "+38735307307",
+    "email": "tuzla@tuzla.ba",
+    "website": "http://grad.tuzla.ba/",
+    "location": {
+      "latitude": 44.538611,
+      "longtitude": 18.676862,
+      "source" : "tuzlalocation.png"
+    },
+    "panoramas" : [
+        "tuzla_1.jpg",
+        "tuzla_2.jpg",
+        "tuzla_3.jpg",
+        "tuzla_4.jpg",
+        "tuzla_5.jpg"],
+    "events" : "Tuzla is a city in Bosnia and Herzegovina. It is the seat of the Tuzla Canton and is the economic, scientific, cultural, educational, health and tourist centre of northeast Bosnia. After Sarajevo and Banja Luka, Tuzla is the third largest city in Bosnia and Herzegovina. Preliminary results from the 2013 Census indicate that the municipality has a population of 120,441. Tuzla is an educational center and is home to two universities. It is also the main industrial machine and one of the leading economic strongholds of Bosnia with a wide and varied industrial sector including an expanding service sector thanks to its salt lake tourism. The city of Tuzla is home to Europe's only salt lake as part of its central park and has more than 100,000 people visiting its shores every year. The history of the city goes back to the 9th century; modern Tuzla dates back to 1510 when it became an important garrison town in the Ottoman Empire. In Bosnia and Herzegovina, Tuzla is also regarded as one of the most multicultural cities in the country and has managed to keep the pluralist character of the city throughout the Bosnian War and after, with Bosniaks, Serbs, Croats and a small minority of Bosnian Jews residing in Tuzla.",
+    "places" : [
+        {"image" : "tuzla_place_1.jpg", "place" : "Korzo"},
+        {"image" : "tuzla_place_2.jpg", "place" : "Kapija"},
+        {"image" : "tuzla_place_3.jpg", "place" : "Behram-Begov Ulaz"},
+        {"image" : "tuzla_place_4.jpg", "place" : "Gradska Česma"}]
+  }
+]

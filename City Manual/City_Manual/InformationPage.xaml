@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="City_Manual.InformationPage">
+  <ScrollView Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Padding="10, 15, 10,10" >
+    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+      <Label x:Name="cityName" FontSize="40" TextColor="#000000" HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" Margin="0, 0, 0, 10" />
+      <Label Text="Website" FontSize="25" TextColor="#000000" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand" />
+      <Label x:Name="cityWebsite" FontSize="20" TextColor="#0033aa" HorizontalTextAlignment="End" HorizontalOptions="FillAndExpand">
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="onWebsiteTapped"/>
+        </StackLayout.GestureRecognizers>
+      </Label>
+      <Label Text="City Hall Phone Number" FontSize="25" TextColor="#000000" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand" />
+      <Label x:Name="cityPhone" FontSize="20" TextColor="#0033aa" HorizontalTextAlignment="End" HorizontalOptions="FillAndExpand">
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="onPhoneTapped"/>
+        </StackLayout.GestureRecognizers>
+      </Label>
+      <Label Text="e-Mail" FontSize="25" TextColor="#000000" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand" />
+      <Label x:Name="cityeMail" FontSize="20" TextColor="#0033aa" HorizontalTextAlignment="End" HorizontalOptions="FillAndExpand">
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="oneMailTapped"/>
+        </StackLayout.GestureRecognizers>
+      </Label>
+      <Label Text="Location" FontSize="25" TextColor="#000000" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand" />
+      <Image x:Name="cityLocation" HorizontalOptions="Fill" VerticalOptions="Start" >
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="onLocationTapped"/>
+        </StackLayout.GestureRecognizers>
+      </Image>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

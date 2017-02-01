@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="City_Manual.EventsPage">
+
+  <ContentPage.Content>
+    <ScrollView Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Padding="10, 15, 10,10" >
+      <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <Label Text="Historical Events" FontSize="40" TextColor="#000000" HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" Margin="0, 0, 0, 10" />
+        <Label x:Name="historicalEvents" TextColor="#353535" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

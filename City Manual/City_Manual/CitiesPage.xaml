@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="City_Manual.CitiesPage">
+  <ContentPage.Content>
+    <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#FFFFFF">
+      <ListView x:Name="citiesList" SeparatorVisibility="Default" SeparatorColor="#424242" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="Center" Padding="10, 2, 20, 2">
+                <Label Text="{Binding name}" FontSize="40" TextColor="#000000" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" />
+                <Grid HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Padding="5, 2, 2, 2">
+                  <Label Text="{Binding canton}" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" TextColor="#757575" Grid.Row="0" Grid.Column="0"/>
+                  <Label Text="{Binding entity}" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" TextColor="#757575" Grid.Row="0" Grid.Column="1"/>
+                  <Label Text="{Binding population}" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="End" TextColor="#757575" Grid.Row="0" Grid.Column="2"/>
+                </Grid>                  
+              </StackLayout>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
